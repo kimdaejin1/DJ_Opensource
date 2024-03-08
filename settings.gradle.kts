@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MYopensource"
 include(":app")
+include(":datepicker")
