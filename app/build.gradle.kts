@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.dj_k.myopensource"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.dj_k.myopensource"
